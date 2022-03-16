@@ -1,0 +1,22 @@
+COLOR PALETTE
+
+orange #FF5C01
+black #000000
+grey #BFBFBF
+light grey #F5F5F5
+white #FFFFFF
+
+dark #10161D
+less dark #1E2730
+darker #0E141B
+pink #FE0DA7
+
+
+FONTS
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&family=Spectral:wght@300;400;700&display=swap" rel="stylesheet">
+
+font-family: 'Roboto', sans-serif;
+font-family: 'Spectral', serif;
