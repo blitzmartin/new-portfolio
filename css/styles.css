@@ -147,7 +147,7 @@ footer {
     width: 100%;
     text-align: center;
     margin: 0;
-    padding: 30px;
+    padding-top: 30px;
 }
 
 footer ul {
@@ -226,12 +226,12 @@ footer ul {
 
 .contact-flex {
     box-sizing: border-box;
-    padding: 30px 300px;
+    padding: 50px 400px;
     margin: 0;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-auto-rows: 400px;
-    gap: 16px;
+    gap: 50px;
 }
 
 
