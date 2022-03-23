@@ -1,11 +1,17 @@
-/*************** ELEMENTS *****************/
-
 :root {
     --darkcol: #1E2730;
     --greycol: #eef2f6;
     --lightcol: #616e7c;
     --pinkcol: #FE0DA7;
 }
+
+*,
+*:after ,
+*:before { 
+    box-sizing:border-box; 
+}
+
+/*************** ELEMENTS *****************/
 
 body {
     background: linear-gradient(45deg, #1E2730, #1b2631, #281d3b);
@@ -26,7 +32,6 @@ h1 {
     font-size: 2.6rem;
     color: var(--pinkcol);
     margin: 50px 0 0 0;
-
 }
 
 h2 {
